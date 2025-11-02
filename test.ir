@@ -1,0 +1,8 @@
+var x = 5;
+var i = 5;
+if (1 > 2) {
+    var i = 1;
+} else {
+    var i = 0;
+}
+return i;
